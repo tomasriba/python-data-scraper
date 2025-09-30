@@ -1,0 +1,5 @@
+Python 3.9+
+beautifulsoup4
+lxml
+requests
+ezodf
