@@ -1,3 +1,5 @@
+# Python Data Scraper
+
 Python script that scrapes selected data (long/short positions) from IG and Plus500 web pages and appends results to an .ods spreadsheet. It is designed to run hourly (08:00–20:00, local time), capturing timestamped values for later analysis.
 
 Configuration:
